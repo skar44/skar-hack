@@ -14,7 +14,8 @@
    
   
    
-   #  Images In Readmes
+   #  Images In Readmes   ![Screenshot at 2023-04-08 16-22-38](https://user-images.githubusercontent.com/54996997/230741391-7bf441c1-9de5-4d3c-8ba0-e62da5db7140.png)
+
    
   
 
@@ -42,7 +43,7 @@
    
    #لتثبيت الاداة بالشكل الصحيح
    
-   git clone https://github.com/skar44/skar-hack
+   git clone https://github.com/skar44/skar-hack.git
    
  
  
@@ -52,14 +53,17 @@
    
   sudo apt-get install python
    
-   sudo apt-get install python2
+   sudo apt-get install python3
    
-  chmod +x install.sh
+  sudo chmod +x install.sh
    
-   chmod +x skar.sh
+   sudo chmod +x KGT.sh
    
-  sudo bash install.sh
+  sudo ./install.sh
    
-  sudo bash skar.sh
+  sudo ./KGT.sh
+  
+  USR { .......}
+ go  ENTER
    
    #انا لااتحمل مسؤليتك لسوء استخدامك لهذه الاداة 
