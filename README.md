@@ -9,6 +9,8 @@
    @skar44
    
   او يمكنك متابعة الدروس على قناتنا
+  https://t.me/Skar441
+  
    
    https://www.youtube.com/channel/UC9HW3go2iW6T2sCbrh7bhew?view_as=subscriber
    
@@ -44,20 +46,20 @@
    
  
  
-   #sudo apt-get install tor
+   sudo apt-get install tor
    
-   #sudo apt-get install all
+  sudo apt-get install all
    
-   #sudo apt-get install python
+  sudo apt-get install python
    
-   #sudo apt-get install python2
+   sudo apt-get install python2
    
-   #chmod +x install.sh
+  chmod +x install.sh
    
-   #chmod +x skar.sh
+   chmod +x skar.sh
    
-   #sudo bash install.sh
+  sudo bash install.sh
    
-   #sudo bash skar.sh
+  sudo bash skar.sh
    
    #انا لااتحمل مسؤليتك لسوء استخدامك لهذه الاداة 
