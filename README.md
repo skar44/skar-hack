@@ -49,6 +49,8 @@
  
    sudo apt-get install tor
    
+   Open a terminal and type tor
+   
   sudo apt-get install all
    
   sudo apt-get install python
