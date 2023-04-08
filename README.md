@@ -12,7 +12,7 @@
   https://t.me/Skar441
   
    
-   https://www.youtube.com/channel/UC9HW3go2iW6T2sCbrh7bhew?view_as=subscriber
+  
    
    #  Images In Readmes
    
